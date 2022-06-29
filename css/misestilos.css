@@ -1,0 +1,69 @@
+body{
+}
+#principal{
+ width:  100px;
+ height: 110px;
+ border: 1px solid pink;
+ margin: auto;
+ background-color :;
+}
+Header {
+ width:  900px;
+ height: 300px;
+ border: 1px: solid #000
+ margin: auto;
+ background-color: pink;
+}
+.menu{
+ width:660px;
+ height:60px;
+ border: 0px solid pink;
+ float: right;
+ margin-top: 50px;
+ background: pink;
+ }
+
+.menu ul{
+}
+
+.menu ul li{
+ list-style:none;
+ float: left;
+}
+
+.menu ul li a{
+  text-decoration: none;
+  padding:10px 15px;
+  border:10px solid white;
+  color:black;
+}
+.menu ul li a:hover{
+  background: white;
+  color white;
+  transition: background 0s; color 0s;
+}
+
+#11{
+ margin-top: 25px;
+ width:900px;
+ height:250px;
+}
+
+ #categorias{
+ width:900px;
+ height:auto; overflow: hidden;
+ border: 0px; solid;
+ margin-top:10px;
+}
+
+.uno{
+width:295;
+heigt:400;
+border: 1px solid;
+float: left;
+}
+
+.dos{
+margin left: 12px;
+margin-rigth: 12px;
+}
